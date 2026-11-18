@@ -1,0 +1,5 @@
+*.o
+elg-probe
+__pycache__/
+*.pyc
+.raw_*.png
